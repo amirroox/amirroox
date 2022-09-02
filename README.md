@@ -3,8 +3,9 @@
 ###  I’m interested in Programming & Hack  ### 
 ###  I’m currently learning R Language  ### 
 
+<hr/>
 
-[![amir roox GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amirroox&bg_color=22272e&title_color=de2121&text_color=de2121)]
+![amir roox GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amirroox)
 
 
 <a href="https://github.com/amirroox">
