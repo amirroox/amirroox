@@ -10,7 +10,7 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
 </a>
 <a href="https://github.com/amirroox">
-  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirroox&hide=html&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" alt="amir roox GitHub Stats" />
+  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirroox&exclude_repo=Bootstrap-Offline&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" alt="amir roox GitHub Stats" />
 </a>
 
 <hr/>
