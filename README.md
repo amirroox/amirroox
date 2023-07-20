@@ -1,13 +1,7 @@
 #  About Me:
 🔭 I’m currently working on my StartUp<br>👯 I’m looking to collaborate on Team<br>🌱 I’m currently learning Rust<br>💬 Ask me about Web And Security
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir.roox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirmohammad-roozmeh-a7500b248/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20896206/amir-roox) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_am_hack3r)
-
-
 <hr/>
-
 
 <a href="https://github.com/amirroox">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
