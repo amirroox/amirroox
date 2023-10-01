@@ -1,5 +1,7 @@
 # About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&duration=3000&pause=500&color=F77171&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=200&lines=.%D9%85%D9%88%D9%81%D9%82+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF;%F0%9F%91%AF+Passionate+coder+seeking+creative+collaborations.;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust.;%F0%9F%92%AC+Ask+me+about+Web+And+Security.;%F0%9F%94%AD+I%E2%80%99m+currently+working+on+my+StartUp!;Code%2C+create%2C+and+make+a+difference!;Open+source+enthusiast%2C+sharing+knowledge.)](https://git.io/typing-svg)
+
+
 <hr/>
 <a href="https://github.com/amirroox">
   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
