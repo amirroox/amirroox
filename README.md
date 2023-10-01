@@ -1,4 +1,4 @@
-#  About Me:
+# About Me:
 🔭 I’m currently working on my StartUp<br>👯 I’m looking to collaborate on Team<br>🌱 I’m currently learning Rust<br>💬 Ask me about Web And Security
 
 <hr/>
@@ -22,17 +22,7 @@
 </picture>
 
 ### Music
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true">
-  <img width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
-</a>
-
-### ✍️ Random Dev Quote / Joke
-<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
-  <img width="49%" height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
-</a>
-<a href="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-  <img width="49%" height="200px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</a>
+![Custom HTML](index.html)
 
 
 ## 💰 You can help me by Donating
