@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on my StartUp<br>👯 I’m looking to collaborate on Team<br>🌱 I’m currently learning Rust<br>💬 Ask me about Web And Security
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&pause=500&color=F77171&background=000000&center=true&vCenter=true&width=1000&lines=%D8%B1%D9%88%D8%B2+%D8%AE%D9%88%D8%A8%DB%8C+%D8%AF%D8%A7%D8%B4%D8%AA%D9%87+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Team;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust;%F0%9F%92%AC+Ask+me+about+Web+And+Security;%F0%9F%94%AD+I%E2%80%99m+currently+working+on+my+StartUp)](https://git.io/typing-svg)
 
 <hr/>
 
