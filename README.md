@@ -4,10 +4,10 @@
 <hr/>
 
 <a href="https://github.com/amirroox">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
 </a>
 <a href="https://github.com/amirroox">
-  <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirroox&exclude_repo=Bootstrap-Offline&hide=css&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" alt="amir roox GitHub Stats" />
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirroox&exclude_repo=Bootstrap-Offline&hide=css&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" alt="amir roox GitHub Stats" />
 </a>
 
 <hr/>
@@ -24,8 +24,15 @@
 ### Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=e61919&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+### ✍️ Random Dev Quote / Joke
+<p style="width:120px">
+  <img width="45%" style="float: left !important;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+</p>
+<p style="width:20px">
+  <img width="45%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
 
- ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amirroox) [![Daramet](https://img.shields.io/badge/Daramet-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://daramet.com/amirroox) 
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amirroox) [![Daramet](https://img.shields.io/badge/Daramet-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://daramet.com/amirroox) 
