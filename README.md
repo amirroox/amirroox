@@ -1,5 +1,5 @@
 # About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&pause=500&color=F77171&background=000000&center=true&vCenter=true&width=1000&lines=%D8%B1%D9%88%D8%B2+%D8%AE%D9%88%D8%A8%DB%8C+%D8%AF%D8%A7%D8%B4%D8%AA%D9%87+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF;%F0%9F%91%AF+I%E2%80%99m+looking+to+collaborate+on+Team;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust;%F0%9F%92%AC+Ask+me+about+Web+And+Security;%F0%9F%94%AD+I%E2%80%99m+currently+working+on+my+StartUp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lalezar&duration=3000&pause=500&color=F77171&background=000000&center=true&vCenter=true&width=1000&lines=%D9%85%D9%88%D9%81%D9%82+%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF;%F0%9F%91%AF+Passionate+coder+seeking+creative+collaborations.;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Rust;%F0%9F%92%AC+Ask+me+about+Web+And+Security;%F0%9F%94%AD+I%E2%80%99m+currently+working+on+my+StartUp;Code%2C+create%2C+and+make+a+difference!;Open+source+enthusiast%2C+sharing+knowledge.)](https://git.io/typing-svg)
 
 <hr/>
 
