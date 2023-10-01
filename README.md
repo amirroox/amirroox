@@ -22,7 +22,22 @@
 </picture>
 
 ### Music
-![Custom HTML](index.html)
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true">
+    <img width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+  </a>
+</div>
+<div align="center">
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+    <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+    <img width="70%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </a>
+</div>
+
 
 
 ## 💰 You can help me by Donating
