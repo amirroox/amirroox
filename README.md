@@ -22,16 +22,17 @@
 </picture>
 
 ### Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=e61919&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true">
+  <img width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+</a>
 
 ### ✍️ Random Dev Quote / Joke
-<p style="width:120px">
-  <img width="45%" style="float: left !important;" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
-</p>
-<p style="width:20px">
-  <img width="45%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
+<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
+  <img width="49%" height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+</a>
+<a href="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+  <img width="49%" height="200px" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</a>
 
 
 ## 💰 You can help me by Donating
