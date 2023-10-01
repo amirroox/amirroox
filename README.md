@@ -4,10 +4,10 @@
 <hr/>
 
 <a href="https://github.com/amirroox">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=amirroox&show_icons=true&line_height=30&count_private=true&title_color=de2121&text_color=e0cece&icon_color=c70808&bg_color=22272e" alt="amir roox GitHub Stats" />
 </a>
 <a href="https://github.com/amirroox">
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirroox&exclude_repo=Bootstrap-Offline&hide=css&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" alt="amir roox GitHub Stats" />
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirroox&exclude_repo=Bootstrap-Offline&hide=css&layout=compact&show_icons=true&title_color=de2121&text_color=e0cece&icon_color=6aa6f8&bg_color=22272e" alt="amir roox GitHub Stats" />
 </a>
 
 <hr/>
@@ -29,12 +29,12 @@
 </div>
 <div align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
-    <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+    <img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
   </a>
 </div>
 <div align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
-    <img width="70%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    <img width="100%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
 </div>
 
