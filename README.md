@@ -21,6 +21,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake.svg">
 </picture>
 
+### Music
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=e61919&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
 
