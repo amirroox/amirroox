@@ -20,17 +20,18 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Music
-<div align="center">
+<br>
+<!--<div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true">
     <img width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
   </a>
-</div>
+</div>-->
 <div align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
   </a>
 </div>
+<br>
 <div align="center">
   <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord">
     <img width="100%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
