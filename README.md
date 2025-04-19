@@ -91,7 +91,7 @@
 
 <div align="center">
 
-| Language | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="80" alt="amazonwebservices logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80" alt="azure logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="80" alt="firebase logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="80" alt="googlecloud logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="80" alt="oracle logo"  /> |
+| 🛠 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="80" alt="amazonwebservices logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80" alt="azure logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="80" alt="firebase logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="80" alt="googlecloud logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="80" alt="oracle logo"  /> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Language | Amazon Web Services | Azure | Firebase | GoogleCloud | Oracle |
 | Skill (%) | 60% | 95% | 90% | 90% | 50% |
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-| Language | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="80" alt="apache logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="80" alt="nginx logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="80" alt="windows8 logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  /> | <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="80" alt="freebsd logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="80" alt="android logo"  /> |
+| 🧑‍💻 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="80" alt="apache logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="80" alt="nginx logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="80" alt="windows8 logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" alt="linux logo"  /> | <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="80" alt="freebsd logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="80" alt="android logo"  /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Language | Apache | Nginx | Windows | Linux | FreeBSD | Android |
 | Skill (%) | 95% | 75% | 99% | 70% | 30% | 99% |
@@ -139,7 +139,7 @@
 
 <div align="center">
 
-| Language | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="80" alt="npm logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="80" alt="unity logo"  /> | <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  /> | <img src="https://skillicons.dev/icons?i=wordpress" height="80" alt="wordpress logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="80" alt="drupal logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="80" alt="gitlab logo"  /> |
+| 🧰 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="80" alt="npm logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="80" alt="unity logo"  /> | <img src="https://skillicons.dev/icons?i=unreal" height="80" alt="unrealengine logo"  /> | <img src="https://skillicons.dev/icons?i=wordpress" height="80" alt="wordpress logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="80" alt="drupal logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="80" alt="gitlab logo"  /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Language | NPM | NodeJs | Unity | UnrealEngine | Wordpress | Drupal | Git | Github | Gitlab |
 | Skill (%) | 95% | 85% | 80% | 60% | 99% | 30% | 70% | 70% | 50% |
@@ -172,7 +172,34 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white&label=50%25)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&label=50%25) -->
 
-<br>
+## Social Media
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amirroox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/i_am_hack3r" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/987508563435978764" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:amirrooox@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/amir.roox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21831019/amir-roox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://t.me/you_113" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=989915933147&text=Hello%20amir%20Roox%20%F0%9F%98%80" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
 <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirroox/amirroox/output/pacman-contribution-graph-dark.svg">
@@ -180,7 +207,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amirroox/amirroox/output/pacman-contribution-graph.svg">
 </picture>-->
 
-<br><br>
+<br>
 <!--<div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&redirect=true">
     <img width="50%" src="https://spotify-github-profile.vercel.app/api/view?uid=31mbk7xcyclmq4fy7tjtfqlczd4u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
