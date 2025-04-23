@@ -66,7 +66,7 @@
   
   | 🧱 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /> | <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  /> |
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-  | Language | Less | NestJs | React | Spring | Sass | VueJs | TailwindCSS | Jquery | Flask | Fastapi |
+  | Frameworks | Less | NestJs | React | Spring | Sass | VueJs | TailwindCSS | Jquery | Flask | Fastapi |
   | Skill (%) | 99% | 70% | 80% | 85% | 99% | 60% | 99% | 99% | 99% | 99% |
   
   </div>
@@ -96,7 +96,7 @@
   
   | 🛠 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  /> |
   | :---: | :---: | :---: | :---: | :---: | :---: |
-  | Language | Amazon Web Services | Azure | Firebase | GoogleCloud | Oracle |
+  | Cloud | Amazon Web Services | Azure | Firebase | GoogleCloud | Oracle |
   | Skill (%) | 60% | 95% | 90% | 90% | 50% |
   
   </div>
@@ -113,7 +113,7 @@
   
   | 🗃️ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  /> |
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-  | Language | MySQL | Redis | PostgreSQL | MongoDB | Microsoft SQL Server | Sqlite |
+  | DB | MySQL | Redis | PostgreSQL | MongoDB | Microsoft SQL Server | Sqlite |
   | Skill (%) | 95% | 85% | 95% | 95% | 95% | 95% |
   
   </div>
@@ -129,7 +129,7 @@
   
   | 🧑‍💻 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> | <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="40" alt="freebsd logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  /> |
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-  | Language | Apache | Nginx | Windows | Linux | FreeBSD | Android |
+  | OS/Server | Apache | Nginx | Windows | Linux | FreeBSD | Android |
   | Skill (%) | 95% | 75% | 99% | 70% | 30% | 99% |
   
   </div>
@@ -144,7 +144,7 @@
   
   | 🧰 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  /> | <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  /> | <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="40" alt="drupal logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  /> |
   | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-  | Language | NPM | NodeJs | Unity | UnrealEngine | Wordpress | Drupal | Git | Github | Gitlab |
+  | Tools | NPM | NodeJs | Unity | UnrealEngine | Wordpress | Drupal | Git | Github | Gitlab |
   | Skill (%) | 95% | 85% | 80% | 60% | 99% | 30% | 70% | 70% | 50% |
   
   </div>
@@ -174,6 +174,16 @@
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6&label=50%25)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white&label=50%25)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&label=50%25) -->
+
+  ## 😈 IDE
+  
+  <div align="center">
+  
+  | 😈 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  /> |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  | IDE | PhpStorm | pyCharm | Jetbrains IDES | Visual Studio | Visual Studio Code | WebStorm | Intellij | Android Studio |
+  
+  </div>
 
 </details>
 
