@@ -11,6 +11,14 @@
 </a>
 <hr/>
 
+<a href="https://github.com/amirroox">
+  <img width="49%" height="213px" src="https://api.ro-ox.com/TimeCode/github_lang.php" alt="amir roox languages" />
+</a>
+<a href="https://github.com/amirroox">
+  <img width="49%" height="213px" src="https://api.ro-ox.com/TimeCode/github_editor.php" alt="amir roox editors" />
+</a>
+<hr/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirroox/amirroox/output/github-contribution-grid-snake.svg">
